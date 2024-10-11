@@ -120,3 +120,4 @@ C:\Users\PedroAugustoDouradoI\Documents\AspNet\Todo\obj\Debug\net8.0\refint\Todo
 C:\Users\PedroAugustoDouradoI\Documents\AspNet\Todo\obj\Debug\net8.0\Todo.pdb
 C:\Users\PedroAugustoDouradoI\Documents\AspNet\Todo\obj\Debug\net8.0\Todo.genruntimeconfig.cache
 C:\Users\PedroAugustoDouradoI\Documents\AspNet\Todo\obj\Debug\net8.0\ref\Todo.dll
+C:\Users\PedroAugustoDouradoI\Documents\AspNet\Todo\obj\Debug\net8.0\Todo.sourcelink.json
